@@ -3,10 +3,38 @@
     <title>ECP Studio</title>
     <link href="https://hot7585325.github.io/Publii-Page/feed.xml" rel="self" />
     <link href="https://hot7585325.github.io/Publii-Page" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-06-06T22:37:33+08:00</updated>
     <author>
         <name>Tanterbooan</name>
     </author>
     <id>https://hot7585325.github.io/Publii-Page</id>
 
+    <entry>
+        <title>Unity</title>
+        <author>
+            <name>Tanterbooan</name>
+        </author>
+        <link href="https://hot7585325.github.io/Publii-Page/unity.html"/>
+        <id>https://hot7585325.github.io/Publii-Page/unity.html</id>
+            <category term="Unity"/>
+
+        <updated>2025-06-06T21:46:54+08:00</updated>
+            <summary>
+                <![CDATA[
+                    這幾天回去玩瑪奇，當需要連續攻擊時，我總會用終焉斬擊，其實就是人類的無限斬擊(那不是重點XD)，反正我覺得很帥!!! 那個殘影!&nbsp; 沒錯!! 就是殘影 身為一個遊戲開發者，該怎麼實踐這個效果!? 殘影常見的兩種實作方式 1、Mesh 殘影 2、用 RenderTexture 畫面殘影 今天我們只講第一種(笑死 我也只會這種
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    這幾天回去玩瑪奇，當需要連續攻擊時，我總會用終焉斬擊，其實就是人類的無限斬擊(那不是重點XD)，反正我覺得很帥!!! 那個殘影!&nbsp; 沒錯!! 就是殘影<br>身為一個遊戲開發者，該怎麼實踐這個效果!?
+  </p>
+
+  <p>
+    殘影常見的兩種實作方式<br>1、Mesh 殘影<br>2、用 RenderTexture 畫面殘影<br>今天我們只講第一種(笑死 我也只會這種<br>
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
