@@ -11,19 +11,34 @@
     },
     "items": [
         {
+            "id": "https://hot7585325.github.io/Publii-Page/unity-2.html",
+            "url": "https://hot7585325.github.io/Publii-Page/unity-2.html",
+            "title": "【Blender】輸出JSX to Ae",
+            "content_html": "\n  <p>\n    <br>\n  </p>",
+            "author": {
+                "name": "Tanterbooan"
+            },
+            "tags": [
+                   "Blender"
+            ],
+            "date_published": "2025-06-07T00:46:36+08:00",
+            "date_modified": "2025-06-07T00:47:22+08:00"
+        },
+        {
             "id": "https://hot7585325.github.io/Publii-Page/unity.html",
             "url": "https://hot7585325.github.io/Publii-Page/unity.html",
-            "title": "Unity",
+            "title": "【Unity】殘影製作",
             "summary": "這幾天回去玩瑪奇，當需要連續攻擊時，我總會用終焉斬擊，其實就是人類的無限斬擊(那不是重點XD)，反正我覺得很帥!!! 那個殘影!&nbsp; 沒錯!! 就是殘影 身為一個遊戲開發者，該怎麼實踐這個效果!? 殘影常見的兩種實作方式 1、Mesh 殘影 2、用 RenderTexture 畫面殘影 今天我們只講第一種(笑死 我也只會這種",
             "content_html": "\n  <p>\n    這幾天回去玩瑪奇，當需要連續攻擊時，我總會用終焉斬擊，其實就是人類的無限斬擊(那不是重點XD)，反正我覺得很帥!!! 那個殘影!&nbsp; 沒錯!! 就是殘影<br>身為一個遊戲開發者，該怎麼實踐這個效果!?\n  </p>\n\n  <p>\n    殘影常見的兩種實作方式<br>1、Mesh 殘影<br>2、用 RenderTexture 畫面殘影<br>今天我們只講第一種(笑死 我也只會這種<br>\n  </p>",
             "author": {
                 "name": "Tanterbooan"
             },
             "tags": [
-                   "Unity"
+                   "Unity",
+                   "Shader"
             ],
             "date_published": "2025-06-06T21:46:54+08:00",
-            "date_modified": "2025-06-06T22:37:33+08:00"
+            "date_modified": "2025-06-07T00:27:27+08:00"
         }
     ]
 }
