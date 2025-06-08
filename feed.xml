@@ -3,7 +3,7 @@
     <title>ECP Studio</title>
     <link href="https://hot7585325.github.io/Publii-Page/feed.xml" rel="self" />
     <link href="https://hot7585325.github.io/Publii-Page" />
-    <updated>2025-06-08T12:50:09+08:00</updated>
+    <updated>2025-06-08T13:05:34+08:00</updated>
     <author>
         <name>Tanterbooan</name>
     </author>
@@ -41,22 +41,14 @@
         <updated>2025-06-06T21:46:54+08:00</updated>
             <summary>
                 <![CDATA[
-                    最近在IG Thread都會看到一堆酷酷網頁的教學，上網爬了一下，大概有以下幾個可以做出來 TB本身是個Unity工程師，遊戲引擎對於我比較親切一點，所以我就打算試試看PlayCanvas，如果你沒有前端知識，但想做酷酷的網頁，歡迎關注我 一起學習PC吧
+                    最近在 IG Threads 常常滑到一些超酷的互動網頁，看起來又美又順，我心想：「這些到底是怎麼做的啊？」 上網爬了一下資料，發現現在能做出這種效果的工具，像是： Three.js Babylon.js PlayCanvas Unity WebGL Spline Rive 因為自己是 Unity 的開發者，對遊戲引擎比較熟，所以本來有想說：「那就用 Unity WebGL 吧！」 但研究了一下後發現，它雖然可以輸出到網頁，實際上卻不太適合做這種輕量又能跟 HTML 整合的互動效果。 載入慢、不能直接加網頁元素，看起來反而有點卡卡的。 後來我選擇了 PlayCanvas(因為它也是遊戲引擎~) 它是專門為網頁設計的 3D 引擎，介面跟 Unity 有點像，對我這種「懂程式但不太會前端」的人來說，應該會比較好上手。雖然我現在還沒真的實作過，但我準備開始研究，也想把學習過程記錄下來。 如果你也對這種酷酷的網頁互動有興趣，或是跟我一樣是 Unity 開發者，卻想試試不同的工具，歡迎關注我，一起學習 PlayCanvas！
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    最近在IG Thread都會看到一堆酷酷網頁的教學，上網爬了一下，大概有以下幾個可以做出來
-  </p>
-
-  <ul>
-    <li>Three.js</li><li>Babylon.js<br></li><li>PlayCanvas<br></li><li>Unity WebGL<br></li><li>Spline<br></li><li>Rive<br></li>
-  </ul>
-
-  <p>
-    TB本身是個Unity工程師，遊戲引擎對於我比較親切一點，所以我就打算試試看PlayCanvas，如果你沒有前端知識，但想做酷酷的網頁，歡迎關注我 一起學習PC吧<br>
+    最近在 IG Threads 常常滑到一些超酷的互動網頁，看起來又美又順，我心想：「這些到底是怎麼做的啊？」<br>上網爬了一下資料，發現現在能做出這種效果的工具，像是：<br><br>Three.js<br>Babylon.js<br>PlayCanvas<br>Unity WebGL<br>Spline<br>Rive<br><br>因為自己是 Unity 的開發者，對遊戲引擎比較熟，所以本來有想說：「那就用 Unity WebGL 吧！」<br>但研究了一下後發現，它雖然可以輸出到網頁，實際上卻不太適合做這種輕量又能跟 HTML 整合的互動效果。<br>載入慢、不能直接加網頁元素，看起來反而有點卡卡的。<br><br>後來我選擇了 PlayCanvas(因為它也是遊戲引擎~)<br>它是專門為網頁設計的 3D 引擎，介面跟 Unity 有點像，對我這種「懂程式但不太會前端」的人來說，應該會比較好上手。雖然我現在還沒真的實作過，但我準備開始研究，也想把學習過程記錄下來。<br><br>如果你也對這種酷酷的網頁互動有興趣，或是跟我一樣是 Unity 開發者，卻想試試不同的工具，歡迎關注我，一起學習 PlayCanvas！
   </p>
             ]]>
         </content>
