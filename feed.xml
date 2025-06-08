@@ -3,7 +3,7 @@
     <title>ECP Studio</title>
     <link href="https://hot7585325.github.io/Publii-Page/feed.xml" rel="self" />
     <link href="https://hot7585325.github.io/Publii-Page" />
-    <updated>2025-06-07T19:21:17+08:00</updated>
+    <updated>2025-06-08T12:50:09+08:00</updated>
     <author>
         <name>Tanterbooan</name>
     </author>
@@ -30,7 +30,7 @@
         </content>
     </entry>
     <entry>
-        <title>【PlayCanvas】為什麼是PlayCanvas</title>
+        <title>【PlayCanvas】我選擇了PlayCanvas</title>
         <author>
             <name>Tanterbooan</name>
         </author>
@@ -41,14 +41,22 @@
         <updated>2025-06-06T21:46:54+08:00</updated>
             <summary>
                 <![CDATA[
-                    我想者做酷酷的網頁，但從頭學習html css js感覺好累，我是個遊戲開發者，我搜尋了一下發現有一個潛力股，就是今天的主角PlayCanvas
+                    最近在IG Thread都會看到一堆酷酷網頁的教學，上網爬了一下，大概有以下幾個可以做出來 TB本身是個Unity工程師，遊戲引擎對於我比較親切一點，所以我就打算試試看PlayCanvas，如果你沒有前端知識，但想做酷酷的網頁，歡迎關注我 一起學習PC吧
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    我想者做酷酷的網頁，但從頭學習html css js感覺好累，我是個遊戲開發者，我搜尋了一下發現有一個潛力股，就是今天的主角PlayCanvas<br>
+    最近在IG Thread都會看到一堆酷酷網頁的教學，上網爬了一下，大概有以下幾個可以做出來
+  </p>
+
+  <ul>
+    <li>Three.js</li><li>Babylon.js<br></li><li>PlayCanvas<br></li><li>Unity WebGL<br></li><li>Spline<br></li><li>Rive<br></li>
+  </ul>
+
+  <p>
+    TB本身是個Unity工程師，遊戲引擎對於我比較親切一點，所以我就打算試試看PlayCanvas，如果你沒有前端知識，但想做酷酷的網頁，歡迎關注我 一起學習PC吧<br>
   </p>
             ]]>
         </content>
